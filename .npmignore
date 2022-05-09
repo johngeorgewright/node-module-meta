@@ -1,0 +1,6 @@
+.github
+*.log
+.vscode
+.yarn
+test
+renovate.json
