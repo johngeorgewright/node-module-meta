@@ -6,6 +6,7 @@ on:
 
 jobs:
   publish-npm:
+    environment: NPM
     runs-on: ubuntu-latest
     steps:
       - name: Checkout project
