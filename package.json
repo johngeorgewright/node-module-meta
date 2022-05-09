@@ -1,6 +1,6 @@
 {
   "name": "node-module-meta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compose and react upon redux actions",
   "type": "module",
   "module": "dist/index.mjs",
