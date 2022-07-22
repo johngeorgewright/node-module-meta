@@ -906,10 +906,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.11.43":
-  version: 16.11.43
-  resolution: "@types/node@npm:16.11.43"
-  checksum: 96d09e68347c49ebf84fe1443360edc3f98336f0794256abc8e4f29ef3070546357cae17083d6fd9767b631239367c4f245fe64accff4af057d17bd6694f0b2b
+"@types/node@npm:16.11.45":
+  version: 16.11.45
+  resolution: "@types/node@npm:16.11.45"
+  checksum: 57d61c951024f66d796e71e4a972faef266007398cd4e93a195822fea2d5deb41d0615f394a99ece89772b145ff057321d138c7e3442455dc7d785ff67cebde3
   languageName: node
   linkType: hard
 
@@ -4263,7 +4263,7 @@ __metadata:
     "@semantic-release/github": 8.0.4
     "@semantic-release/npm": 9.0.1
     "@semantic-release/release-notes-generator": 10.0.3
-    "@types/node": 16.11.43
+    "@types/node": 16.11.45
     "@types/source-map-support": 0.5.4
     commitizen: 4.2.4
     concurrently: 7.2.2
