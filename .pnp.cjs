@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/npm", "virtual:7986eea0a0f478ecfe5f3510e381780cef222177baf244c142676a8722c13f9bdb1bfc7eea7a550783a677dbe42100baa91432e18e14951023069ede77b9fc89#npm:9.0.1"],\
             ["@semantic-release/release-notes-generator", "virtual:7986eea0a0f478ecfe5f3510e381780cef222177baf244c142676a8722c13f9bdb1bfc7eea7a550783a677dbe42100baa91432e18e14951023069ede77b9fc89#npm:10.0.3"],\
             ["@types/node", "npm:16.11.43"],\
-            ["@types/source-map-support", "npm:0.5.4"],\
+            ["@types/source-map-support", "npm:0.5.6"],\
             ["commitizen", "npm:4.2.4"],\
             ["concurrently", "npm:7.2.2"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
@@ -1204,10 +1204,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/source-map-support", [\
-        ["npm:0.5.4", {\
-          "packageLocation": "./.yarn/cache/@types-source-map-support-npm-0.5.4-1c4eb2be20-160ff77e8a.zip/node_modules/@types/source-map-support/",\
+        ["npm:0.5.6", {\
+          "packageLocation": "./.yarn/cache/@types-source-map-support-npm-0.5.6-5db5ff1656-b2b52b3e49.zip/node_modules/@types/source-map-support/",\
           "packageDependencies": [\
-            ["@types/source-map-support", "npm:0.5.4"],\
+            ["@types/source-map-support", "npm:0.5.6"],\
             ["source-map", "npm:0.6.1"]\
           ],\
           "linkType": "HARD"\
@@ -4929,7 +4929,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/npm", "virtual:7986eea0a0f478ecfe5f3510e381780cef222177baf244c142676a8722c13f9bdb1bfc7eea7a550783a677dbe42100baa91432e18e14951023069ede77b9fc89#npm:9.0.1"],\
             ["@semantic-release/release-notes-generator", "virtual:7986eea0a0f478ecfe5f3510e381780cef222177baf244c142676a8722c13f9bdb1bfc7eea7a550783a677dbe42100baa91432e18e14951023069ede77b9fc89#npm:10.0.3"],\
             ["@types/node", "npm:16.11.43"],\
-            ["@types/source-map-support", "npm:0.5.4"],\
+            ["@types/source-map-support", "npm:0.5.6"],\
             ["commitizen", "npm:4.2.4"],\
             ["concurrently", "npm:7.2.2"],\
             ["cz-conventional-changelog", "npm:3.3.0"],\
