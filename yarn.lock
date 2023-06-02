@@ -4275,7 +4275,7 @@ __metadata:
     semantic-release: 19.0.3
     source-map-support: 0.5.21
     ts-node: 10.9.1
-    tslib: 2.4.0
+    tslib: 2.5.3
     typescript: 4.7.4
   languageName: unknown
   linkType: soft
@@ -6215,10 +6215,10 @@ resolve@^1.10.0:
   languageName: node
   linkType: hard
 
-"tslib@npm:2.4.0":
-  version: 2.4.0
-  resolution: "tslib@npm:2.4.0"
-  checksum: 8c4aa6a3c5a754bf76aefc38026134180c053b7bd2f81338cb5e5ebf96fefa0f417bff221592bf801077f5bf990562f6264fecbc42cd3309b33872cb6fc3b113
+"tslib@npm:2.5.3":
+  version: 2.5.3
+  resolution: "tslib@npm:2.5.3"
+  checksum: 88902b309afaf83259131c1e13da1dceb0ad1682a213143a1346a649143924d78cf3760c448b84d796938fd76127183894f8d85cbb3bf9c4fddbfcc140c0003c
   languageName: node
   linkType: hard
 
